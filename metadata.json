@@ -1,0 +1,6 @@
+{
+  "name": "StaySafe",
+  "description": "StaySafe is a community-powered safety map that helps commuters in Nigeria see reported danger zones and choose safer routes. Supports UN SDG 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
